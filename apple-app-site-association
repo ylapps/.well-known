@@ -13,6 +13,10 @@
           "comment": "Matches any URL whose path starts with /workout/"
         },
         {
+          "/": "*",
+          "comment": "Matches any URL whose path starts with any string"
+        },
+        {
           "/": "/help/website/*",
           "exclude": true,
           "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
