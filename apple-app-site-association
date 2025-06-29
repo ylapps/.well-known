@@ -1,8 +1,8 @@
-{
-    "applinks": {
-        "details": [{
-            "appID": "7AGKTE77BB.com.yevhenii.lytvynenko.tabatax",
-            "paths": "*"
-        }]
-    }
+
+"applinks": {
+    "details": [{
+        "appID": "7AGKTE77BB.com.yevhenii.lytvynenko.tabatax",
+        "paths": "*"
+    }]
 }
+
