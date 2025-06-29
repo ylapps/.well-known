@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["7AGKTE77BB.com.yevhenii.lytvynenko.tabatax"],
+            "components": [{
+                "/": "/workout/*",Add commentMore actions
+                "comment": "Matches any URL whose path starts with /workout/"
+            }]
+        }]
+    }
+}
